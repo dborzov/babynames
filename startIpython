@@ -1,0 +1,3 @@
+#!/bin/bash
+pandas # starts my virtualenv with pandas, scipy all that
+ipython notebook --pylab inline
